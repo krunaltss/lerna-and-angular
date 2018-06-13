@@ -1,0 +1,21 @@
+{
+  "name": "tss-test-lib-two",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/tss-test-lib-two.umd.js",
+  "module": "fesm5/tss-test-lib-two.js",
+  "es2015": "fesm2015/tss-test-lib-two.js",
+  "esm5": "esm5/tss-test-lib-two.js",
+  "esm2015": "esm2015/tss-test-lib-two.js",
+  "fesm5": "fesm5/tss-test-lib-two.js",
+  "fesm2015": "fesm2015/tss-test-lib-two.js",
+  "typings": "tss-test-lib-two.d.ts",
+  "metadata": "tss-test-lib-two.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

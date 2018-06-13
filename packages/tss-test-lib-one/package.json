@@ -1,0 +1,21 @@
+{
+  "name": "tss-test-lib-one",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/tss-test-lib-one.umd.js",
+  "module": "fesm5/tss-test-lib-one.js",
+  "es2015": "fesm2015/tss-test-lib-one.js",
+  "esm5": "esm5/tss-test-lib-one.js",
+  "esm2015": "esm2015/tss-test-lib-one.js",
+  "fesm5": "fesm5/tss-test-lib-one.js",
+  "fesm2015": "fesm2015/tss-test-lib-one.js",
+  "typings": "tss-test-lib-one.d.ts",
+  "metadata": "tss-test-lib-one.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
